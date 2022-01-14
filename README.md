@@ -10,7 +10,7 @@
 
 **Contact me :** 
 <br/>
-<a href="mailto:wailbouymaj@gmail.com">
+<a href="mailto:wailbouymaj@icloud.com">
   <img align="left" alt="Loki's Email" width="22px" src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
 </a>
  
