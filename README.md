@@ -1,5 +1,5 @@
 
-### Hi there 👋, I'm [Loki](https://github.com/wbLoki) 👨‍💻🇲🇦
+### Hi there 👋, I'm [Wail](https://github.com/wbLoki) 👨‍💻🇲🇦
 
 
 - 🎓 I'm always learning new technologies and frameworks. 
