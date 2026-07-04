@@ -1,78 +1,67 @@
+# Hi there 👋 I'm Wail
 
-### Hi there 👋, I'm [Wail](https://github.com/wbLoki) 👨‍💻🇲🇦
+Frontend Engineer from 🇲🇦 Morocco, passionate about building fast, intuitive, and scalable web & mobile applications.
 
+I enjoy turning ideas into polished products with a strong focus on developer experience, performance, and clean architecture.
 
-- 🎓 I'm always learning new technologies and frameworks. 
-- 💬 Ask me about: tech, memes, and video games.
-- 😄 Pronouns: he/him
+---
 
-<br/>
+## 🚀 About Me
 
-**Contact me :** 
-<br/>
-<a href="mailto:wailbouymaj@gmail.com">
-  <img align="left" alt="Loki's Email" width="22px" src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
-</a>
- 
+- 💻 Frontend Engineer specializing in React & Next.js
+- 📱 Mobile development with React Native
+- 🗄️ Backend experience with Prisma, PostgreSQL, and modern APIs
+- 🌍 Based in Morocco
+- 📖 Always learning new technologies and best practices
+- ☕ Coffee-powered developer
 
-<br />
+---
 
+## 🛠 Tech Stack
 
-**Languages and Technologies:**
-<br/>
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+### Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wbLoki)](https://github.com/wbLoki/github-readme-stats)
-        </h3>
-<p float="left">
- <a href="https://en.wikipedia.org/wiki/HTML">
-<img alt="Loki" src="https://devstickers.com/assets/img/pro/iqm9.png" width="40">
- </a>
- <a href="https://en.wikipedia.org/wiki/CCS3">
-<img alt="Loki" src="https://devstickers.com/assets/img/pro/8pnd.png" width="40">
-  </a>
- <a href="https://en.wikipedia.org/wiki/JavaScript">
-<img alt="Loki" src="https://devstickers.com/assets/img/pro/i4eg.png" width="40">
-  </a>
- <a href="https://reactjs.org/">
-<img alt="Loki" src="https://devstickers.com/assets/img/pro/z392.png" width="40">
-  </a>
- <a href="https://nodejs.org/en/">
-<img alt="Loki" src="https://devstickers.com/assets/img/pro/iuw5.png" width="40">
-  </a>
- <!-- <a href="https://www.typescriptlang.org">
-<img alt="Loki" src="https://devstickers.com/assets/img/pro/tzgi.png" width="40">
-  </a> -->
-  <a href="https://git-scm.com/">
-<img alt="Loki" src="https://devstickers.com/assets/img/pro/apiv.png" width="40">
-  </a> 
- <a href="https://code.visualstudio.com/">
-<img alt="Loki" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
-  </a>
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 
-<a href="https://www.adobe.com/products/photoshop.html">
-<img alt="Loki" src="https://devstickers.com/assets/img/pro/k176.png" width="40">
-  </a>
- <a href="https://www.adobe.com/products/illustrator.html">
-<img alt="Loki" src="https://devstickers.com/assets/img/pro/y4b0.png" width="40">
-  </a>
-</p>
+---
 
-<!--
-##
-<a href="">
-💬 Find me [elsewhere on the internet]().</a>
--->
+## 📈 GitHub Stats
 
-<!--
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=wbLoki&show_icons=true&hide_border=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wbLoki&layout=compact&hide_border=true)
+
+---
+
+## 🌱 Currently Learning
+
+- System Design
+- Cloud Infrastructure
+- Kubernetes
+- AI-assisted development workflows
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/wail-bouymaj/
+- Email: wailbouymaj@gmail.com
+
+---
+
+> "First make it work. Then make it right. Then make it fast."
